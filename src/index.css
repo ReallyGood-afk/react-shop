@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+li.header {
+  font-size: xx-large;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+
+div.HomePageSection {
+  background-color: darkblue;
+}
+
+div.title_row {
+  font-size: xxx-large;
+  color: #FFF;
+  font-family: 'Times New Roman';
+}
+
+div.learnAbout_row {
+  font-size: xxx-large;
+  color: white;
+  font-family: 'Times New Roman';
+  background-color: darkgray;;
+}
